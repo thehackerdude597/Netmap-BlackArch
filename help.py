@@ -1,0 +1,3 @@
+print("Having Trouble: ")
+print("Basic Unix/Linux Commands: ")
+print("\n ls(Lists files in current directory), \n cd(changes directory e.g. cd Desktop),\n mkdir(makes a folder/directory e.g. mkdir foldername) \n whoami(lists the home name) \n lsb_release -a(gives basic system info) \n sudo rm(removes file or folder e.g. sudo rm filename) \n shutdown(shutsdown a system within the next minute of calling it) \n sudo adduser(creates new user on a linux operating system e.g. sudo adduser username) \n ifconfig(gives basic network data, you may have to indtall it by running sudo apt install netools) \n sudo -su (gives complete root accsess if you have already accsessed the password) \n cat(opens a file e.g. cat passwords.txt)")
